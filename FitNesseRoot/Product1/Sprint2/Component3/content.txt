@@ -1,0 +1,11 @@
+!1 User Story 1 - Tables
+
+!|script    |de.exampleprogram.fixtures.Order|
+|order item |item1                           |
+|order item |item2                           |
+|check      |item count          |2          |
+|check not  |empty                           |
+|remove item|item1                           |
+|remove item|item2                           |
+|remove item|item3                           |
+|ensure     |empty                           |

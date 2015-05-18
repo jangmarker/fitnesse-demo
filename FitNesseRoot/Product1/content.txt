@@ -1,0 +1,7 @@
+The following is the product documentation of our greatest product.
+
+!contents -R2 -g -p -f -h
+
+!define TEST_SYSTEM {slim}
+
+!path ./bin/

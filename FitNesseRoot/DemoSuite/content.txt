@@ -1,0 +1,9 @@
+!contents -R2 -g -p -f -h
+
+!1 A demo suite
+
+All tests listed above will be executed when clicking the "Suite" button at the top.
+
+
+
+!path .

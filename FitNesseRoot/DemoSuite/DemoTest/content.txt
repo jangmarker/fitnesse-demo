@@ -1,0 +1,12 @@
+!1 User Story 1 - Tables
+
+!|exampleprogram.DemoColumnFixture            |
+|operand1|operand2|multiply?|divide?|subtract?|
+|1       |2       |2        |0      |-1       |
+|5       |2       |15       |2      |3        |
+
+!1 User Story 2 - Exceptions
+
+!|exampleprogram.DemoColumnFixture            |
+|operand1|operand2|multiply?|divide?|subtract?|
+|1       |0       |0        |0      |1        |

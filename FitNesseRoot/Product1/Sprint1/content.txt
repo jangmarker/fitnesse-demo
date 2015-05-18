@@ -1,0 +1,5 @@
+!1 Sprint 1
+
+!contents -R2 -g -p -f -h
+
+Main objective was to have the server up and running and have some clickable elements.

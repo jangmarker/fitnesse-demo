@@ -1,0 +1,6 @@
+!1 User Story 1 - Tables
+
+!|de.exampleprogram.fixtures.TruthTableDemo           |
+|operand1|operand2|multiply?|divide?|subtract?|
+|1       |2       |2        |0      |-1       |
+|5       |2       |15       |2      |3        |
